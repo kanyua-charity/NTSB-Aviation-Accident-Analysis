@@ -22,10 +22,10 @@ It was compiled by the National Transport and Safety Board.
 
 The dataset contains data on aviation accidents over the years.
 Columns that are key to our analysis include:
-    Event.Id 
-    Make
-    Model
-    Total.Fatal.Injuries
+    Event.Id, 
+    Make, 
+    Model, 
+    Total.Fatal.Injuries, and
     Total.Uninjured
 
 Columns with too many missing values that are not used in our analysis are removed entirely(Latitude, Longitude, Airport.Code and Airport.Name)
