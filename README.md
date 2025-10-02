@@ -37,9 +37,9 @@ Columns with too many missing values that are not used in our analysis are remov
 This visualization shows the trensd in number of aviation accidents over the years
 ![alt text](Accidents-Over-The-Years.png)
 
-2.Number of Injuries and Fatalities
-This visualization shows the aggregate number of fatal, serious and minor injuries
-![alt text](Number-of-Injuries-and-Fatalities.png)
+2.Number of Accidents according to The Number of Engines
+This visualization shows how the number of engines impacts flight safety.
+![alt text](Number_of_Accidents_by_Number_of_Engines.png)
 
 3.Top 10 Airplane Makes Involved In Accidents
 This visualization shows the top 10 airplane makes involved in aviation accidents
