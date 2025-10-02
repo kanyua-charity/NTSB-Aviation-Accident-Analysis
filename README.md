@@ -39,7 +39,7 @@ This visualization shows the trensd in number of aviation accidents over the yea
 
 2.Number of Accidents according to The Number of Engines
 This visualization shows how the number of engines impacts flight safety.
-![alt text](Number_of_Accidents_by_Number_of_Engines.png)
+![alt text](Accidents-by-Number-of-Engines.png)
 
 3.Top 10 Airplane Makes Involved In Accidents
 This visualization shows the top 10 airplane makes involved in aviation accidents
@@ -54,7 +54,7 @@ Based on the analysis, insights into aircraft safety and risk patterns were obta
 ![alt text](student.ipynb)
 
 **Presentation PDF**
-![alt text]()
+![alt text](Aviation-presentation.pdf)
 
 **Analysis Dashboard**
 The link to the accident analysis dashboard:(https://public.tableau.com/views/NTSBAccidentsAnalysis/AirplaneModelsWiththeLeastNumberofFatalInjuries?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
